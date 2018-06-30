@@ -1,5 +1,5 @@
 # README
-This application was created during Rails Girls Krakow 2018 event. It was based on http://guides.railsgirls.com/app tutorials
+This application was created during Rails Girls Krakow 2018 event. It was based on http://guides.railsgirls.com/app tutorials. :)
 
 Things you may want to cover:
 
